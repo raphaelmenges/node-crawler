@@ -1,0 +1,7 @@
+{
+  "name": "node-crawler",
+  "version": "0.0.1",
+  "dependencies": {
+    "crawler": "^1.4.0"
+  }
+}
